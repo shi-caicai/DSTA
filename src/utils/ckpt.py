@@ -36,7 +36,7 @@ def _save_checkpoint(model, optimizer, cur_epoch, args, is_best=False):
         "config": args,
         "epoch": cur_epoch,
     }
-    path = f'{args.output_dir}/{args.dataset}/seed_{args.seed}_count_{args.count}_batchsize_{args.batch_size}_llm_name_{args.llm_model_name}_llm_frozen_{args.llm_frozen}_gnn_model_name_{args.gnn_model_name}.pth'
+    path = f'{args.output_dir}/{args.dataset}/seed_{args.seed}_batchsize_{args.batch_size}_llm_name_{args.llm_model_name}_llm_frozen_{args.llm_frozen}_gnn_model_name_{args.gnn_model_name}.pth'
     print("Saving checkpoint at epoch {} to {}.".format(cur_epoch, path))
     torch.save(save_obj, path)
 
@@ -45,7 +45,7 @@ def _reload_best_model(model, args):
     """
     Load the best checkpoint for evaluation.
     """
-    checkpoint_path = f'{args.output_dir}/{args.dataset}/seed_{args.seed}_count_{args.count}_batchsize_{args.batch_size}_llm_name_{args.llm_model_name}_llm_frozen_{args.llm_frozen}_gnn_model_name_{args.gnn_model_name}.pth'
+    checkpoint_path = f'{args.output_dir}/{args.dataset}/seed_{args.seed}_batchsize_{args.batch_size}_llm_name_{args.llm_model_name}_llm_frozen_{args.llm_frozen}_gnn_model_name_{args.gnn_model_name}.pth'
 
     print("Loading checkpoint from {}.".format(checkpoint_path))
 

@@ -4,7 +4,14 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="29b3f7d0-9c30-4a62-bcc1-3284272fb2a1" name="Changes" comment="" />
+    <list default="true" id="29b3f7d0-9c30-4a62-bcc1-3284272fb2a1" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/fnd/step1.py" beforeDir="false" afterPath="$PROJECT_DIR$/fnd/step1.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/config.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/config.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/model/__init__.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/model/__init__.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/utils/ckpt.py" beforeDir="false" afterPath="$PROJECT_DIR$/src/utils/ckpt.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/train.py" beforeDir="false" afterPath="$PROJECT_DIR$/train.py" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -18,7 +25,7 @@
     </option>
   </component>
   <component name="Git.Settings">
-    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dataset/RoG-webqsp" />
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
   <component name="MarkdownSettingsMigration">
     <option name="stateVersion" value="1" />
@@ -32,45 +39,45 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;Python.YaYiNerRe.executor&quot;: &quot;Run&quot;,
-    &quot;Python.ckpt.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.evaluate.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.get_graph.executor&quot;: &quot;Run&quot;,
-    &quot;Python.graph_llm.executor&quot;: &quot;Run&quot;,
-    &quot;Python.llm.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.modeling_llama.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.preprocess.executor&quot;: &quot;Run&quot;,
-    &quot;Python.sparql_query.executor&quot;: &quot;Run&quot;,
-    &quot;Python.step1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.step1_copy.executor&quot;: &quot;Run&quot;,
-    &quot;Python.step2.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test (2).executor&quot;: &quot;Run&quot;,
-    &quot;Python.test.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.train.executor&quot;: &quot;Run&quot;,
-    &quot;Python.train1.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.weibo.executor&quot;: &quot;Debug&quot;,
-    &quot;Python.wikidata_api.executor&quot;: &quot;Debug&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
-    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
-    &quot;last_opened_file_path&quot;: &quot;E:/project/PycharmProjects/G-Retriever-main&quot;,
-    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
-    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
-    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
-    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
-    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
-    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
-    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "Python.YaYiNerRe.executor": "Run",
+    "Python.ckpt.executor": "Debug",
+    "Python.evaluate.executor": "Debug",
+    "Python.get_graph.executor": "Run",
+    "Python.graph_llm.executor": "Run",
+    "Python.llm.executor": "Debug",
+    "Python.modeling_llama.executor": "Debug",
+    "Python.preprocess.executor": "Run",
+    "Python.sparql_query.executor": "Run",
+    "Python.step1.executor": "Debug",
+    "Python.step1_copy.executor": "Run",
+    "Python.step2.executor": "Debug",
+    "Python.test (1).executor": "Run",
+    "Python.test (2).executor": "Run",
+    "Python.test.executor": "Debug",
+    "Python.train.executor": "Run",
+    "Python.train1.executor": "Debug",
+    "Python.weibo.executor": "Debug",
+    "Python.wikidata_api.executor": "Debug",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.mappings": "true",
+    "WebServerToolWindowPanel.toolwindow.highlight.symlinks": "true",
+    "WebServerToolWindowPanel.toolwindow.show.date": "false",
+    "WebServerToolWindowPanel.toolwindow.show.permissions": "false",
+    "WebServerToolWindowPanel.toolwindow.show.size": "false",
+    "last_opened_file_path": "E:/project/PycharmProjects/DSTA",
+    "node.js.detected.package.eslint": "true",
+    "node.js.detected.package.tslint": "true",
+    "node.js.selected.package.eslint": "(autodetect)",
+    "node.js.selected.package.tslint": "(autodetect)",
+    "nodejs_package_manager_path": "npm",
+    "settings.editor.selected.configurable": "com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable",
+    "vue.rearranger.settings.migration": "true"
   }
-}</component>
+}]]></component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="E:\project\PycharmProjects\G-Retriever\G-Retriever-main" />
@@ -315,6 +322,7 @@
       <workItem from="1744694044739" duration="31766000" />
       <workItem from="1745901645560" duration="23594000" />
       <workItem from="1745943504259" duration="27000" />
+      <workItem from="1746968803037" duration="3172000" />
     </task>
     <servers />
   </component>

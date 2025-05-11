@@ -23,8 +23,8 @@ print("gpu是否可用：", torch.cuda.is_available())
 def parse_args():
     parser = argparse.ArgumentParser(description="step1")
     parser.add_argument("--dataset", type=str, default='politifact')
-    parser.add_argument("--path", type=str, default='/data2/data/csh/G-Retriever-main')
-    # onlykg,onlynews,all
+    parser.add_argument("--path", type=str, default='/data2/data/csh/DSTA')
+    # Ablation experiment: you can change this. onlykg, onlynews, all
     parser.add_argument("--graph_name", type=str, default='all')
     parser.add_argument("--max_length", type=int, default=3800)
     args = parser.parse_args()

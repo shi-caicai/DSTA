@@ -3,9 +3,8 @@ import argparse
 def parse_args_llama():
     parser = argparse.ArgumentParser(description="DSTA")
 
-    parser.add_argument("--path", type=str, default='/data2/data/csh/G-Retriever-main/')
+    parser.add_argument("--path", type=str, default='/data2/data/csh/DSTA/')
     parser.add_argument("--seed", type=int, default=0)
-    parser.add_argument("--count", type=int, default=0)
 
     parser.add_argument("--dataset", type=str, default='gossipcop')
     parser.add_argument("--lr", type=float, default=1e-5)
@@ -26,7 +25,7 @@ def parse_args_llama():
     # LLM related
     parser.add_argument("--llm_model_name", type=str, default='7b')
     parser.add_argument("--llm_model_path", type=str, default='')
-    parser.add_argument("--llm_frozen", type=str, default='True')
+    parser.add_argument("--llm_frozen", type=str, default='False')
     parser.add_argument("--llm_num_virtual_tokens", type=int, default=10)
     parser.add_argument("--output_dir", type=str, default='output')
     parser.add_argument("--max_txt_len", type=int, default=512)

@@ -137,7 +137,6 @@ if __name__ == "__main__":
     args.llm_model_name = 'llama2-13b'
     args.llm_frozen = 'False'
     args.seed = 1
-    args.count = 1
     args.batch_size = 8
     args.gnn_model_name = 'gat'
     main(args)
