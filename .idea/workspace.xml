@@ -1,0 +1,380 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="29b3f7d0-9c30-4a62-bcc1-3284272fb2a1" name="Changes" comment="" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Python Script" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/dataset/RoG-webqsp" />
+  </component>
+  <component name="MarkdownSettingsMigration">
+    <option name="stateVersion" value="1" />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 8
+}</component>
+  <component name="ProjectId" id="2enlDaF4xivSvlhyATSuUcpJZ4j" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;Python.YaYiNerRe.executor&quot;: &quot;Run&quot;,
+    &quot;Python.ckpt.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.evaluate.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.get_graph.executor&quot;: &quot;Run&quot;,
+    &quot;Python.graph_llm.executor&quot;: &quot;Run&quot;,
+    &quot;Python.llm.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.modeling_llama.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.preprocess.executor&quot;: &quot;Run&quot;,
+    &quot;Python.sparql_query.executor&quot;: &quot;Run&quot;,
+    &quot;Python.step1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.step1_copy.executor&quot;: &quot;Run&quot;,
+    &quot;Python.step2.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.test (1).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test (2).executor&quot;: &quot;Run&quot;,
+    &quot;Python.test.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.train.executor&quot;: &quot;Run&quot;,
+    &quot;Python.train1.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.weibo.executor&quot;: &quot;Debug&quot;,
+    &quot;Python.wikidata_api.executor&quot;: &quot;Debug&quot;,
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowFactoryState&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.mappings&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.highlight.symlinks&quot;: &quot;true&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.date&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.permissions&quot;: &quot;false&quot;,
+    &quot;WebServerToolWindowPanel.toolwindow.show.size&quot;: &quot;false&quot;,
+    &quot;last_opened_file_path&quot;: &quot;E:/project/PycharmProjects/G-Retriever-main&quot;,
+    &quot;node.js.detected.package.eslint&quot;: &quot;true&quot;,
+    &quot;node.js.detected.package.tslint&quot;: &quot;true&quot;,
+    &quot;node.js.selected.package.eslint&quot;: &quot;(autodetect)&quot;,
+    &quot;node.js.selected.package.tslint&quot;: &quot;(autodetect)&quot;,
+    &quot;nodejs_package_manager_path&quot;: &quot;npm&quot;,
+    &quot;settings.editor.selected.configurable&quot;: &quot;com.jetbrains.python.configuration.PyActiveSdkModuleConfigurable&quot;,
+    &quot;vue.rearranger.settings.migration&quot;: &quot;true&quot;
+  }
+}</component>
+  <component name="RecentsManager">
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="E:\project\PycharmProjects\G-Retriever\G-Retriever-main" />
+      <recent name="E:\OneDrive - email.szu.edu.cn\project\PycharmProjects\G-Retriever-main\src\my" />
+    </key>
+  </component>
+  <component name="RunManager" selected="Python.step1">
+    <configuration name="ckpt" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-Retriever-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/utils" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/utils/ckpt.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="graph_llm" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-Retriever-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/src/model" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/src/model/graph_llm.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="step1" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-Retriever-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$/fnd" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/fnd/step1.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="test" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-Retriever-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/test.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-Retriever-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <configuration name="train" type="PythonConfigurationType" factoryName="Python" temporary="true" nameIsGenerated="true">
+      <module name="G-Retriever-main" />
+      <option name="ENV_FILES" value="" />
+      <option name="INTERPRETER_OPTIONS" value="" />
+      <option name="PARENT_ENVS" value="true" />
+      <envs>
+        <env name="PYTHONUNBUFFERED" value="1" />
+      </envs>
+      <option name="SDK_HOME" value="" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="IS_MODULE_SDK" value="true" />
+      <option name="ADD_CONTENT_ROOTS" value="true" />
+      <option name="ADD_SOURCE_ROOTS" value="true" />
+      <EXTENSION ID="PythonCoverageRunConfigurationExtension" runner="coverage.py" />
+      <option name="SCRIPT_NAME" value="$PROJECT_DIR$/train.py" />
+      <option name="PARAMETERS" value="" />
+      <option name="SHOW_COMMAND_LINE" value="false" />
+      <option name="EMULATE_TERMINAL" value="false" />
+      <option name="MODULE_MODE" value="false" />
+      <option name="REDIRECT_INPUT" value="false" />
+      <option name="INPUT_FILE" value="" />
+      <method v="2" />
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Python.step1" />
+        <item itemvalue="Python.train" />
+        <item itemvalue="Python.test" />
+        <item itemvalue="Python.ckpt" />
+        <item itemvalue="Python.graph_llm" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="SharedIndexes">
+    <attachedChunks>
+      <set>
+        <option value="bundled-js-predefined-1d06a55b98c1-0b3e54e931b4-JavaScript-PY-241.17011.127" />
+        <option value="bundled-python-sdk-48aec45f0201-7e9c3bbb6e34-com.jetbrains.pycharm.pro.sharedIndexes.bundled-PY-241.17011.127" />
+      </set>
+    </attachedChunks>
+  </component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="29b3f7d0-9c30-4a62-bcc1-3284272fb2a1" name="Changes" comment="" />
+      <created>1712548104411</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1712548104411</updated>
+      <workItem from="1712548110670" duration="37000" />
+      <workItem from="1712551112729" duration="35000" />
+      <workItem from="1712554648798" duration="222000" />
+      <workItem from="1712562939806" duration="2838000" />
+      <workItem from="1713346320806" duration="693000" />
+      <workItem from="1715156676818" duration="21075000" />
+      <workItem from="1716365987800" duration="4136000" />
+      <workItem from="1716380455774" duration="214000" />
+      <workItem from="1716395563201" duration="17112000" />
+      <workItem from="1716617867291" duration="2306000" />
+      <workItem from="1716628706999" duration="647000" />
+      <workItem from="1719383216706" duration="7686000" />
+      <workItem from="1719732774716" duration="4920000" />
+      <workItem from="1719795856403" duration="43214000" />
+      <workItem from="1719975737317" duration="49000" />
+      <workItem from="1719975835385" duration="51684000" />
+      <workItem from="1720151099418" duration="3314000" />
+      <workItem from="1720234751550" duration="728000" />
+      <workItem from="1720614276190" duration="1945000" />
+      <workItem from="1720619422623" duration="4686000" />
+      <workItem from="1720738476565" duration="5747000" />
+      <workItem from="1721135651425" duration="771000" />
+      <workItem from="1721181369102" duration="228000" />
+      <workItem from="1721182218321" duration="90880000" />
+      <workItem from="1721551603839" duration="28456000" />
+      <workItem from="1722258352842" duration="113000" />
+      <workItem from="1722420707108" duration="503000" />
+      <workItem from="1722511701967" duration="10340000" />
+      <workItem from="1722552547074" duration="8827000" />
+      <workItem from="1722997890828" duration="29491000" />
+      <workItem from="1723446909024" duration="977000" />
+      <workItem from="1723450245741" duration="6028000" />
+      <workItem from="1723603890685" duration="45841000" />
+      <workItem from="1724739728471" duration="7534000" />
+      <workItem from="1724809781384" duration="56373000" />
+      <workItem from="1725351165370" duration="36265000" />
+      <workItem from="1725446007041" duration="65477000" />
+      <workItem from="1725796427542" duration="640000" />
+      <workItem from="1725797365998" duration="106374000" />
+      <workItem from="1726201754826" duration="6627000" />
+      <workItem from="1726283903959" duration="7494000" />
+      <workItem from="1726362119749" duration="3881000" />
+      <workItem from="1726484115197" duration="53539000" />
+      <workItem from="1727332333381" duration="24056000" />
+      <workItem from="1727701925796" duration="85211000" />
+      <workItem from="1729392252530" duration="38636000" />
+      <workItem from="1729938342988" duration="790000" />
+      <workItem from="1730083559265" duration="32751000" />
+      <workItem from="1730368664315" duration="71496000" />
+      <workItem from="1730770254634" duration="17543000" />
+      <workItem from="1730876058288" duration="25971000" />
+      <workItem from="1731070611242" duration="27704000" />
+      <workItem from="1731378602694" duration="121772000" />
+      <workItem from="1732435478792" duration="1231000" />
+      <workItem from="1732502616495" duration="32451000" />
+      <workItem from="1733235861249" duration="1356000" />
+      <workItem from="1733398009044" duration="13888000" />
+      <workItem from="1733846344922" duration="10010000" />
+      <workItem from="1733966225991" duration="3542000" />
+      <workItem from="1733971871574" duration="1463000" />
+      <workItem from="1733990662254" duration="98021000" />
+      <workItem from="1736390885901" duration="5159000" />
+      <workItem from="1736843378361" duration="940000" />
+      <workItem from="1739884420993" duration="4040000" />
+      <workItem from="1739949486147" duration="10388000" />
+      <workItem from="1741078762422" duration="46965000" />
+      <workItem from="1743669927410" duration="47000" />
+      <workItem from="1743670043387" duration="3625000" />
+      <workItem from="1744085691311" duration="27227000" />
+      <workItem from="1744459125725" duration="13709000" />
+      <workItem from="1744694044739" duration="31766000" />
+      <workItem from="1745901645560" duration="23594000" />
+      <workItem from="1745943504259" duration="27000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="3" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager>
+      <breakpoints>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>mock:///</url>
+          <line>951</line>
+          <option name="timeStamp" value="16" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/test.py</url>
+          <line>89</line>
+          <option name="timeStamp" value="20" />
+        </line-breakpoint>
+        <line-breakpoint enabled="true" suspend="THREAD" type="python-line">
+          <url>file://$PROJECT_DIR$/src/model/graph_llm.py</url>
+          <line>154</line>
+          <option name="timeStamp" value="21" />
+        </line-breakpoint>
+      </breakpoints>
+    </breakpoint-manager>
+    <watches-manager>
+      <configuration name="PythonConfigurationType">
+        <watch expression="graphs" />
+        <watch expression="questions.data['input_ids']" />
+        <watch expression="line" />
+        <watch expression="item_json" />
+        <watch expression="saliency_list" />
+        <watch expression="batch_inputs_embeds" />
+        <watch expression="attention_mask" />
+        <watch expression="loss" />
+      </configuration>
+    </watches-manager>
+  </component>
+  <component name="com.intellij.coverage.CoverageDataManagerImpl">
+    <SUITE FILE_PATH="coverage/G_Retriever_main$train1.coverage" NAME="train1 Coverage Results" MODIFIED="1723694897902" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$preprocess.coverage" NAME="preprocess Coverage Results" MODIFIED="1723723823752" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd/dataset/politifact" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$test.coverage" NAME="test Coverage Results" MODIFIED="1745909574753" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$evaluate.coverage" NAME="evaluate Coverage Results" MODIFIED="1725355194268" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/utils" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$ckpt.coverage" NAME="ckpt Coverage Results" MODIFIED="1744974419872" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/utils" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$scene_subgraph_common.coverage" NAME="scene_subgraph_common Coverage Results" MODIFIED="1716618133259" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$scene_subgraph.coverage" NAME="scene_subgraph Coverage Results" MODIFIED="1715166169317" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$wikidata_api.coverage" NAME="wikidata_api Coverage Results" MODIFIED="1720082596267" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$llm.coverage" NAME="llm Coverage Results" MODIFIED="1726141847437" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/model" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$get_graph.coverage" NAME="get_graph Coverage Results" MODIFIED="1723727917935" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$modeling_llama.coverage" NAME="modeling_llama Coverage Results" MODIFIED="1730390877056" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$USER_HOME$/AppData/Local/JetBrains/PyCharm2024.1/remote_sources/585607058/457020305/transformers/models/llama" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$step1_copy.coverage" NAME="step1_copy Coverage Results" MODIFIED="1723106585877" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$step1.coverage" NAME="step1 Coverage Results" MODIFIED="1745936738814" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$train.coverage" NAME="train Coverage Results" MODIFIED="1745912648899" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$YaYiNerRe.coverage" NAME="YaYiNerRe Coverage Results" MODIFIED="1739887580087" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$graph_llm.coverage" NAME="graph_llm Coverage Results" MODIFIED="1741167971564" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/model" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$test__1_.coverage" NAME="test (1) Coverage Results" MODIFIED="1725346218074" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd/dataset/politifact" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$step2.coverage" NAME="step2 Coverage Results" MODIFIED="1719976271897" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$webqsp_subgraph_common.coverage" NAME="webqsp_subgraph_common Coverage Results" MODIFIED="1716453806976" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="true" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/my" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$weibo.coverage" NAME="weibo Coverage Results" MODIFIED="1725596295039" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/src/dataset" />
+    <SUITE FILE_PATH="coverage/G_Retriever_main$sparql_query.coverage" NAME="sparql_query Coverage Results" MODIFIED="1719883824064" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="coverage.py" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false" WORKING_DIRECTORY="$PROJECT_DIR$/fnd" />
+  </component>
+</project>

@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="Black">
+    <option name="sdkName" value="g-retriever" />
+  </component>
+  <component name="ProjectRootManager" version="2" project-jdk-name="Remote Python 3.9.19 (sftp://omnisky@172.31.233.227:22/home/omnisky/anaconda3/envs/g_retriever/bin/python3)" project-jdk-type="Python SDK" />
+</project>

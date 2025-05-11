@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="PublishConfigData" autoUpload="Always" serverName="omnisky@172.31.233.227:22 password (8)" remoteFilesAllowedToDisappearOnAutoupload="false" confirmBeforeUploading="false">
+    <option name="confirmBeforeUploading" value="false" />
+    <serverData>
+      <paths name="omnisky@172.31.233.227:22 key">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 key (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (2)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (3)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (4)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (5)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/home/omnisky/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (6)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (7)">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="omnisky@172.31.233.227:22 password (8)">
+        <serverdata>
+          <mappings>
+            <mapping deploy="/data2/data/csh/G-Retriever-main" local="$PROJECT_DIR$" />
+          </mappings>
+        </serverdata>
+      </paths>
+      <paths name="root@172.31.233.228:30033 password">
+        <serverdata>
+          <mappings>
+            <mapping local="$PROJECT_DIR$" web="/" />
+          </mappings>
+        </serverdata>
+      </paths>
+    </serverData>
+    <option name="myAutoUpload" value="ALWAYS" />
+  </component>
+</project>
