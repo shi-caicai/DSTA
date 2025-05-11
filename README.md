@@ -1,7 +1,7 @@
 ## DSTA
 
 We propose a KG-enhanced LLM framework for fake news Detection with Semantic and Topological Awareness, abbreviated as **DSTA**, by combining KGs, GNNs and LLMs. It mainly consists of four modules, i.e., news structure extraction, fact enhancement via KGs, text-graph modality alignment, and detection through LLMs.
-<img src="https://github.com/shi-caicai/DSTA/blob/master/figs/framework.png" style="zoom: 70%;" />
+<img src="https://github.com/shi-caicai/DSTA/blob/master/figs/framework.png" style="zoom: 40%;" />
 
 ### Environment
 
