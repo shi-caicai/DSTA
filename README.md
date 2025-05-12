@@ -43,7 +43,7 @@ pip install protobuf
 step1:
 
 ```
-python step1.py --path your_project_path --dataset gossipcop --graph_name all
+python fnd/step1.py --path your_project_path --dataset gossipcop --graph_name all
 ```
 
 step2:
